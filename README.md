@@ -1,0 +1,1 @@
+terraform module to proovision ec2 where apache server is launched. just an example
